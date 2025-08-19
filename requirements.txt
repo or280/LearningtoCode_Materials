@@ -2,4 +2,7 @@
 numpy
 pandas
 matplotlib
+scipy
+# For modelling and simulation exercises, you may also need:
+sympy
 # Add more as needed for your scripts.
