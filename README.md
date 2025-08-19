@@ -1,6 +1,7 @@
 # LearningtoCode
 
-This repository contains Python scripts created while learning to code during undergraduate studies.  
+Code written November 2021.
+This repository contains Python scripts created while learning to code during undergraduate studies.
 It serves as a collection of practice exercises, examples, and small projects.
 
 ## Getting Started
